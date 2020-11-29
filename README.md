@@ -1,7 +1,7 @@
 # Predictive Maintenance Machine Remaining Useful Life Estimation using Deep Learning Technique
   
   
-  This is my graduation project, I cann't share the code public. I put a jupyter notebook file to show you some of my work.  
+  This is my graduation project, I cann't share the code with public. I put a jupyter notebook file to show you some of my work.  
   Predictive maintenance lets you estimate when machine failure will occur
 or the RUL of the machine. The well-known dataset for this problem is C-MAPSS (Commercial Modular
 Aero-Propulsion System Simulation) dataset provided by the National Aeronautics and
